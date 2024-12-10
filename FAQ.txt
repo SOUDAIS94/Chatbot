@@ -1,0 +1,41 @@
+
+Q: Quels sont les horaires d'ouverture de l'agence ?
+R: Notre agence est ouverte du lundi au vendredi de 9h à 18h, et le samedi de 10h à 16h. Nous sommes fermés le dimanche et les jours fériés.
+
+Q: Proposez-vous des réductions pour les groupes ?
+R: Oui, nous proposons des réductions pour les groupes de 10 personnes ou plus. Veuillez nous contacter pour plus de détails.
+
+Q: Comment puis-je annuler ou modifier ma réservation ?
+R: Vous pouvez annuler ou modifier votre réservation en nous contactant directement par téléphone ou par e-mail. Des frais peuvent s'appliquer en fonction de nos politiques d'annulation.
+
+Q: Quels documents dois-je fournir pour réserver un voyage ?
+R: Pour réserver un voyage, vous devez fournir une copie de votre pièce d'identité et, dans certains cas, un passeport valide. Si un visa est requis, nous vous informerons.
+
+Q: Offrez-vous des services d'assistance pour les visas ?
+R: Oui, nous offrons un service d'accompagnement pour les demandes de visa. Ce service est soumis à des frais supplémentaires.
+
+Q: Quels types de voyages proposez-vous ?
+R: Nous proposons une variété de voyages, notamment des circuits organisés, des séjours tout compris, des voyages d'affaires et des escapades sur mesure.
+
+Q: Puis-je réserver en ligne ?
+R: Oui, notre site web vous permet de réserver en ligne facilement. Vous pouvez également passer par notre application mobile.
+
+Q: Acceptez-vous les paiements en plusieurs fois ?
+R: Oui, nous proposons des options de paiement en plusieurs fois pour certains types de voyages. Contactez-nous pour connaître les conditions.
+
+Q: Comment puis-je obtenir un devis ?
+R: Vous pouvez demander un devis en ligne sur notre site web ou en nous appelant directement. Nous répondrons dans les plus brefs délais.
+
+Q: Proposez-vous une assurance voyage ?
+R: Oui, nous proposons des assurances voyage pour couvrir les imprévus. Nous pouvons vous aider à choisir la formule adaptée à vos besoins.
+Q:Merci
+R:Avec plaisir ! Si tu as d'autres questions ou besoin d'aide supplémentaire, n'hésite pas. 
+Q:Bonjour
+R:Bonjour ! Comment puis-je vous aider aujourd'hui ?
+Q: Assalam aleykoum
+R: Waleykoum salam warahmatoulaye wabarakahou !
+Q: Qui es-tu ?
+R: Je suis un chatbot innovant, créé par KONE Souleymane, spécialement conçu pour répondre à toutes vos questions concernant les services d'une agence de voyage. Besoin d'informations ou d'assistance ? Posez vos questions, je suis là pour vous guider !
+Q:Aurevoir
+R: Ravi, d'avoir échangé avec toi, n'hésite pas à revenir, aurevoir et à bientôt !
+
