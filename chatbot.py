@@ -2,7 +2,7 @@ import nltk
 nltk.download('punkt')  # Télécharge les ressources nécessaires pour la tokenisation
 nltk.download('stopwords')  # Télécharge les stopwords si nécessaire
 nltk.download('wordnet')
-exitnltk.download('averaged_perceptron_tagger')
+nltk.download('averaged_perceptron_tagger')
 # import des packages pour le pré-traitement
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
