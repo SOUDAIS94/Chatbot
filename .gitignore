@@ -1,0 +1,10 @@
+# Ignore les dossiers de l'environnement virtuel
+Lib/
+Scripts/
+pyvenv.cfg
+share/
+etc/
+
+# Ignore les fichiers temporaires ou de logs
+*.pyc
+*.log
